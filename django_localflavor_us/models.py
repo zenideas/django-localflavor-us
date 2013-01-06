@@ -1,7 +1,7 @@
 from django.utils.translation import ugettext_lazy as _
 from django.db.models.fields import CharField
-from django.contrib.localflavor.us.us_states import STATE_CHOICES
-from django.contrib.localflavor.us.us_states import USPS_CHOICES
+from django_localflavor_us.us_states import STATE_CHOICES
+from django_localflavor_us.us_states import USPS_CHOICES
 
 class USStateField(CharField):
 
