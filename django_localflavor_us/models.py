@@ -30,7 +30,7 @@ class PhoneNumberField(CharField):
         super(PhoneNumberField, self).__init__(*args, **kwargs)
 
     def formfield(self, **kwargs):
-        from django.contrib.localflavor.us.forms import USPhoneNumberField
+        from django_localflavor_us.forms import USPhoneNumberField
         defaults = {'form_class': USPhoneNumberField}
         defaults.update(kwargs)
         return super(PhoneNumberField, self).formfield(**defaults)
