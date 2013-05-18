@@ -18,28 +18,28 @@ msgstr ""
 
 #: forms.py:21
 msgid "Enter a zip code in the format XXXXX or XXXXX-XXXX."
-msgstr ""
+msgstr "XXXXX অথবা XXXXX-XXXX ফরম্যাটে একটি জিপ কোড দিন"
 
 #: forms.py:30
 msgid "Phone numbers must be in XXX-XXX-XXXX format."
-msgstr ""
+msgstr "ফোন নাম্বার অবশ্যই XXX-XXX-XXXX ফরম্যাটের হতে হবে"
 
 #: forms.py:59
 msgid "Enter a valid U.S. Social Security number in XXX-XX-XXXX format."
-msgstr ""
+msgstr "একটি বৈধ ইউ.এস সামাজিক নিরাপত্তা নাম্বার দিন XXX-XX-XXXX ফরম্যাটে"
 
 #: forms.py:92
 msgid "Enter a U.S. state or territory."
-msgstr ""
+msgstr "কোনো ইউ.এস রাজ্য অথবা অঞ্চল প্রেশ করান"
 
 #: models.py:8
 msgid "U.S. state (two uppercase letters)"
-msgstr "ইউ, এস, রাজ্য (দুটো আপারকেস অক্ষর)"
+msgstr "ইউ, এস, রাজ্য (দুটি বড় হাতের অক্ষর)"
 
 #: models.py:17
 msgid "U.S. postal code (two uppercase letters)"
-msgstr ""
+msgstr "ইউ.এস পোস্ট কোড (দুটি বড় হাতের অক্ষর)"
 
 #: models.py:26
 msgid "Phone number"
-msgstr "ফোন নাম্বার"
+msgstr "ফোন নাম্বার"
